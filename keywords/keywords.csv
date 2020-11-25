@@ -1,0 +1,40 @@
+keyword	,discovered
+ebola	,TRUE
+marburg hemorrhagic fever	,TRUE
+lassa fever	,TRUE
+crimean-congo haemorrhagic fever virus	,TRUE
+south american haemorrhagic fever	,TRUE
+rift valley fever	,TRUE
+smallpox	,TRUE
+plague	,TRUE
+anthrax	,TRUE
+botulism	,TRUE
+tularemia	,TRUE
+severe acute respiratory syndrome	,TRUE
+mers	,TRUE
+animal influenza infection in humans	,TRUE
+h1n1	,TRUE
+diphtheria	,TRUE
+tuberculosis	,TRUE
+varicella	,TRUE
+measles	,TRUE
+cholera	,TRUE
+typhoid fever	,TRUE
+paratyphoid fever	,TRUE
+shigellosis	,TRUE
+enterohemorrhagic escherichia coli	,TRUE
+hepatitis a	,TRUE
+pertussis	,TRUE
+mumps	,TRUE
+poliomyelitis	,TRUE
+meningococcal meningitis	,TRUE
+haemophilus influenzae type b	,TRUE
+streptococcus pneumonia	,TRUE
+hansen	,TRUE
+scarlet fever	,TRUE
+vancomycin-resistant staphylococcus aureus	,TRUE
+carbapenem-resistant enterobacteriaceae	,TRUE
+hepatitis e 	,TRUE
+rubella syndrome	,TRUE
+undiagnosed	,FALSE
+unknown	,FALSE
